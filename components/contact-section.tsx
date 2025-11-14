@@ -217,7 +217,7 @@ export function ContactSection() {
                   <div className="mt-4 p-3 bg-custom-blue-50 rounded-lg border border-custom-blue-200">
                     <p className="text-custom-blue-700 text-xs">
                       <strong>Wichtig:</strong> Falls Sie keine Antwort erhalten, kontaktieren Sie uns bitte direkt:
-                      <br />📧 vertrieb@ntconsult.de | 📞 +49 (0) 123 456789
+                      <br />📧 vertrieb@ntconsult.de | 📞 +49 (0)2064 4765-0
                     </p>
                   </div>
                 </div>
@@ -273,7 +273,7 @@ export function ContactSection() {
                         value={formData.phone}
                         onChange={handleInputChange}
                         className="mt-1"
-                        placeholder="+49 123 456789"
+                        placeholder="+49 2064 4765-0"
                       />
                     </div>
                   </div>

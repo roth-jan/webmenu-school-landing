@@ -253,10 +253,10 @@ export function EmailJSContactSection() {
                   <div>
                     <p className="font-semibold text-gray-900">Telefon</p>
                     <button
-                      onClick={() => copyToClipboard("+49 (0) 123 456789", "phone")}
+                      onClick={() => copyToClipboard("+49 (0)2064 4765-0", "phone")}
                       className="text-custom-blue-600 hover:underline text-lg"
                     >
-                      +49 (0) 123 456789
+                      +49 (0)2064 4765-0
                     </button>
                     <p className="text-sm text-gray-600 mt-1">Mo-Fr 9:00 - 18:00 Uhr</p>
                   </div>

@@ -10,83 +10,83 @@ export const translations = {
     },
     // Hero
     hero: {
-      title: "WebMenü - Digitale Schulverpflegung",
-      subtitle: "Das führende Internetbestellsystem für Schulen",
+      title: "WebMenü - Gemeinsam Essen erleben",
+      subtitle: "Mehr als nur Schulessen - Ein Stück Lebensfreude für jeden Tag",
       description:
-        "Automatische Bestellungen, bargeldlose Bezahlung und exakte Mengenplanung. Über 900 Schulen vertrauen bereits auf WebMenü für ihre Schulverpflegung.",
-      cta: "Kostenlose Beratung für Schulen",
-      secondary: "Demo anfordern",
+        "Gesunde Ernährung, die Kindern schmeckt. Einfache Bestellung, die Eltern Zeit spart. Entspannte Mittagspausen für Lehrer. Über 900 Schulen erleben täglich, wie gut Schulverpflegung sein kann.",
+      cta: "Jetzt gemeinsam starten",
+      secondary: "Kennenlerngespräch vereinbaren",
     },
     // Problems
     problems: {
-      title: "Kennen Sie diese täglichen Herausforderungen in Ihrer Schulverpflegung?",
-      subtitle: "Probleme, die WebMenü löst",
+      title: "Schulessen kann so viel besser sein",
+      subtitle: "Wir verstehen Ihre Herausforderungen",
       items: [
         {
-          title: "Bargeld zählen statt kochen",
-          description: "Ihre Küchenmitarbeiter verbringen Stunden mit Geldhandling und Abrechnungen",
+          title: "Zu viel Stress in der Küche",
+          description: "Ihre Mitarbeiter möchten leckeres Essen zubereiten, nicht Münzen zählen und Listen abtippen",
         },
         {
-          title: "Unplanbare Mengen",
-          description: "Heute 50 Essen zu viel, morgen 30 zu wenig – Lebensmittelverschwendung kostet Geld",
+          title: "Essen landet im Müll",
+          description: "Zu viel gekocht? Zu wenig vorbereitet? Beides tut weh – dem Gewissen und dem Budget",
         },
         {
-          title: "Papierchaos",
-          description: "Bestellzettel, Allergenlisten, Abrechnungen – alles manuell und fehleranfällig",
+          title: "Zettelwirtschaft raubt Zeit",
+          description: "Zeit für Kinder statt für Papierkram – das wünschen sich alle in Ihrer Schule",
         },
         {
-          title: "Unzufriedene Eltern",
-          description: "Intransparente Kosten und komplizierte Bezahlprozesse sorgen für Beschwerden",
+          title: "Eltern fühlen sich ausgeschlossen",
+          description: "Eltern möchten wissen, was ihre Kinder essen und einfach mitbestimmen können",
         },
       ],
     },
     // Solutions
     solutions: {
-      title: "WebMenü löst alle Probleme mit einem System",
-      subtitle: "Eine Lösung für Küchen, Schulverwaltung, Eltern und Schüler",
+      title: "So wird Schulessen zum Erlebnis",
+      subtitle: "Für alle, die das Beste für Kinder wollen",
       items: [
         {
-          title: "Für Küchen & Caterer",
-          subtitle: "Exakte Planung = Mehr Gewinn",
+          title: "Für Ihre Küche",
+          subtitle: "Mehr Zeit für gutes Essen",
           description:
-            "Automatische Bestellübersichten, Warenwirtschafts-Integration, SEPA-Lastschrift und Allergene-Management.",
-          features: ["Automatische Bestellübersichten", "Warenwirtschafts-Integration", "SEPA-Lastschrift automatisch", "Allergene-Management"],
+            "Wissen, wie viele Kinder kommen. Allergien im Blick haben. Ohne Bargeld-Stress arbeiten. So macht Kochen wieder Freude.",
+          features: ["Klare Bestellübersicht", "Allergene immer griffbereit", "Keine Münzen mehr zählen", "Weniger Stress, besseres Essen"],
         },
         {
-          title: "Für Schulverwaltung",
-          subtitle: "Weniger Aufwand, mehr Kontrolle",
+          title: "Für Ihre Verwaltung",
+          subtitle: "Entlastung, die Sie spüren",
           description:
-            "Digitale Schülerverwaltung, automatische BuT-Abrechnung, Echtzeit-Berichte und Sammelmails auf Knopfdruck.",
-          features: ["Schülerverwaltung digital", "BuT-Abrechnung automatisch", "Echtzeit-Berichte", "Sammelmails"],
+            "BuT-Zuschüsse werden automatisch abgerechnet. Elternbriefe auf Knopfdruck. Berichte ohne stundenlanges Zusammenrechnen.",
+          features: ["BuT läuft automatisch", "Zeit für wichtigere Dinge", "Alles digital dokumentiert", "Transparenz für alle"],
         },
         {
-          title: "Für Eltern & Schüler",
-          subtitle: "Einfach, transparent, mobil",
+          title: "Für Eltern & Kinder",
+          subtitle: "Einfach und entspannt",
           description:
-            "Online-Bestellung per App oder Website, vollständige Kostentransparenz, Standardmenüs und mobile WappMenü App.",
-          features: ["Online-Bestellung", "Kostentransparenz", "Standardmenüs", "Mobile WappMenü App"],
+            "Morgens in der App bestellen statt Zettel suchen. Mitbestimmen, was auf den Teller kommt. Immer wissen, was es kostet.",
+          features: ["Bestellen in 2 Minuten", "Mitsprache beim Essen", "Kosten transparent", "Von überall möglich"],
         },
       ],
     },
     // ROI
     roi: {
-      title: "Konkrete Zahlen - Das spart WebMenü Ihrer Schule",
-      subtitle: "Messbare Ergebnisse für mehr Effizienz",
+      title: "Das bewirkt WebMenü jeden Tag",
+      subtitle: "Spürbare Verbesserungen für Ihre Schulgemeinschaft",
       stats: [
         {
-          value: "40%",
-          label: "Weniger Lebensmittelverschwendung",
-          description: "Durch exakte Mengenplanung",
+          value: "Weniger",
+          label: "Lebensmittel landen im Müll",
+          description: "Gut für die Umwelt. Gut fürs Gewissen.",
         },
         {
-          value: "15h",
-          label: "Weniger Verwaltung pro Woche",
-          description: "Automatisierte Prozesse sparen Zeit",
+          value: "Mehr Zeit",
+          label: "für die wichtigen Dinge",
+          description: "15 Stunden pro Woche, die wirklich zählen",
         },
         {
-          value: "100%",
-          label: "Transparenz für Eltern",
-          description: "Jederzeit Überblick über Kosten und Bestellungen",
+          value: "Zufriedene",
+          label: "Eltern und Kinder",
+          description: "Transparenz schafft Vertrauen und Zufriedenheit",
         },
       ],
     },
@@ -122,38 +122,38 @@ export const translations = {
     },
     // Testimonials
     testimonials: {
-      title: "Das sagen Schulen über WebMenü",
-      subtitle: "Erfolgsgeschichten aus der Schulverpflegung",
+      title: "Was Schulgemeinschaften erleben",
+      subtitle: "Echte Geschichten von echten Menschen",
       items: [
         {
           quote:
-            "Seit WebMenü haben wir die Verwaltung der Schulverpflegung komplett digitalisiert. Die Eltern sind begeistert von der Transparenz.",
+            "Endlich haben wir Zeit für die Kinder statt für Papierkram. Und die Eltern sagen: 'Wow, so einfach kann das sein!' Das freut uns jeden Tag aufs Neue.",
           author: "Martina Schmidt",
-          company: "Gesamtschule Musterstadt",
+          company: "Gesamtschule Sonnenhügel",
           role: "Schulleiterin",
         },
         {
           quote:
-            "Die Zeitersparnis ist enorm. Wir haben jetzt mehr Zeit für die Schüler und weniger Stress mit Abrechnungen.",
-          author: "Klaus Meier",
-          company: "Grundschule Am Park",
-          role: "Verwaltungsleiter",
+            "Meine Tochter sagt jetzt morgens: 'Mama, ich hab schon bestellt!' Sie liebt es, selbst zu entscheiden. Und ich liebe es, dass es so unkompliziert ist.",
+          author: "Sandra Weber",
+          company: "Mutter von zwei Kindern",
+          role: "Grundschule Am Park",
         },
       ],
     },
     // Contact
     contact: {
-      title: "Kostenlose Beratung für Schulen",
-      subtitle: "Erfahren Sie, wie WebMenü Ihre Schulverpflegung digitalisiert",
+      title: "Lassen Sie uns miteinander sprechen",
+      subtitle: "Wir nehmen uns Zeit für Sie und Ihre Schule",
       form: {
-        name: "Name",
-        email: "E-Mail",
-        company: "Schule / Einrichtung",
-        phone: "Telefon",
-        message: "Nachricht",
-        submit: "Kostenlose Beratung anfordern",
-        success: "Vielen Dank! Wir melden uns innerhalb von 24 Stunden bei Ihnen.",
-        error: "Fehler beim Senden. Bitte versuchen Sie es erneut.",
+        name: "Ihr Name",
+        email: "Ihre E-Mail",
+        company: "Ihre Schule",
+        phone: "Ihre Telefonnummer (optional)",
+        message: "Erzählen Sie uns von Ihrer Schule",
+        submit: "Gespräch vereinbaren",
+        success: "Danke für Ihr Vertrauen! Wir melden uns sehr gerne innerhalb von 24 Stunden bei Ihnen.",
+        error: "Das hat leider nicht geklappt. Bitte versuchen Sie es noch einmal oder rufen Sie uns einfach an.",
       },
     },
     // Footer

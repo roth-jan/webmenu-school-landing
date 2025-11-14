@@ -52,10 +52,10 @@ export function Footer() {
               <div className="w-8 h-8 bg-custom-blue-500 rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold text-sm">W</span>
               </div>
-              <span className="text-xl font-bold">WebMenü für Caterer</span>
+              <span className="text-xl font-bold">WebMenü</span>
             </div>
             <p className="text-gray-300 mb-4 max-w-md">
-              Die professionelle Lösung für Caterer und Küchenbetriebe. Steigern Sie Ihre Gewinnmargen durch präzise
+              Die professionelle Lösung für Schulverpflegung. Digitalisieren Sie Ihre Prozesse durch moderne
               Mengenplanung und reduzieren Sie Verschwendung.
             </p>
             <div className="text-gray-400 text-sm">
@@ -83,17 +83,17 @@ export function Footer() {
             <ul className="space-y-2 text-gray-300">
               <li>
                 <a href="#solutions" className="hover:text-white transition-colors">
-                  Küchenbetriebe
+                  Für Küchen
                 </a>
               </li>
               <li>
                 <a href="#solutions" className="hover:text-white transition-colors">
-                  Großcaterer
+                  Für Schulen
                 </a>
               </li>
               <li>
                 <a href="#solutions" className="hover:text-white transition-colors">
-                  Event-Caterer
+                  Für Verwaltung
                 </a>
               </li>
               <li>

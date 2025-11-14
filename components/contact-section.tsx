@@ -373,7 +373,7 @@ export function ContactSection() {
               <CardContent className="p-8">
                 <h3 className="text-xl font-bold text-success-700 mb-4">Ihre persönliche Online-Präsentation</h3>
                 <p className="text-success-600 mb-4">
-                  Unsere Caterer-Experten zeigen Ihnen live, wie WebMenü in Ihrem Betrieb funktioniert.
+                  Unsere Schul-Experten zeigen Ihnen live, wie WebMenü in Ihrer Schule funktioniert.
                 </p>
                 <ul className="text-success-600 space-y-2">
                   <li>• Live-Demo der Software-Funktionen</li>

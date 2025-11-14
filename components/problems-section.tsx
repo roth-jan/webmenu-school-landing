@@ -36,10 +36,10 @@ export function ProblemsSection() {
 
         <div className="mt-16 bg-custom-red-50 border border-custom-red-200 rounded-lg p-8 text-center">
           <div className="max-w-2xl mx-auto">
-            <h3 className="text-2xl font-bold text-custom-red-700 mb-4">Das Ergebnis: Täglich verlorener Gewinn</h3>
+            <h3 className="text-2xl font-bold text-custom-red-700 mb-4">Jede Woche gehen wertvolle Ressourcen verloren</h3>
             <p className="text-custom-red-600 text-lg">
-              Ohne präzise Kontrolle verlieren Caterer durchschnittlich 15-25% ihres möglichen Gewinns durch
-              ineffiziente Prozesse und Verschwendung.
+              Ohne digitale Unterstützung verlieren Schulen durchschnittlich 15-20 Stunden pro Woche durch
+              manuelle Prozesse und ineffiziente Verwaltung der Schulverpflegung.
             </p>
           </div>
         </div>

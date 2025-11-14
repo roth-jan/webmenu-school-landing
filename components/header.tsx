@@ -26,7 +26,7 @@ export function Header() {
             <div className="w-8 h-8 bg-custom-blue-500 rounded-lg flex items-center justify-center">
               <span className="text-white font-bold text-sm">W</span>
             </div>
-            <span className="text-xl font-bold text-custom-blue-900">WebMenü für Caterer</span>
+            <span className="text-xl font-bold text-custom-blue-900">WebMenü</span>
           </div>
 
           {/* Desktop Navigation */}

@@ -18,14 +18,14 @@ export function Chatbot() {
   const [messages, setMessages] = useState<Message[]>([
     {
       id: "1",
-      text: "Hallo! Ich bin Ihr WebMenü-Assistent für Caterer. Wie kann ich Ihnen helfen?",
+      text: "Hallo! Ich bin Ihr WebMenü-Assistent für Schulen. Wie kann ich Ihnen helfen?",
       sender: "bot",
       timestamp: new Date(),
     },
   ])
   const [inputValue, setInputValue] = useState("")
 
-  const quickReplies = ["Preise für Caterer", "ROI-Berechnung", "Demo buchen", "Warenwirtschafts-Integration"]
+  const quickReplies = ["Preise für Schulen", "ROI-Berechnung", "Demo buchen", "BuT-Abrechnung"]
 
   const botResponses: { [key: string]: string } = {
     preis:
@@ -35,7 +35,7 @@ export function Chatbot() {
       "Nahtlose Integration in bestehende Warenwirtschaftssysteme. WebMenü arbeitet mit allen gängigen ERP-Systemen zusammen.",
     demo: "Gerne! Buchen Sie eine kostenlose ROI-Analyse mit konkreten Einsparungspotenzialen für Ihren Betrieb. Soll ich Sie zum Kontaktformular weiterleiten?",
     caterer:
-      "WebMenü ist speziell für Caterer entwickelt: Mengenoptimierung, Kostenkontrolle und Warenwirtschafts-Integration für maximale Gewinnmargen.",
+      "WebMenü ist speziell für Schulen entwickelt: Digitale Bestellung, BuT-Abrechnung und Verwaltungsentlastung für moderne Schulverpflegung.",
     default:
       "Das ist eine interessante Frage! Für eine detaillierte Beratung empfehle ich Ihnen, unser Kontaktformular auszufüllen oder uns direkt anzurufen: +49 (0)2064 4765-0",
   }

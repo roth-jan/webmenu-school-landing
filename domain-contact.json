@@ -1,0 +1,13 @@
+{
+  "FirstName": "Johann",
+  "LastName": "Roth",
+  "ContactType": "COMPANY",
+  "OrganizationName": "NT Consult",
+  "AddressLine1": "Musterstraße 1",
+  "City": "Frankfurt",
+  "State": "HE",
+  "CountryCode": "DE",
+  "ZipCode": "60311",
+  "PhoneNumber": "+49.123456789",
+  "Email": "jhroth@ntconsult.de"
+}
